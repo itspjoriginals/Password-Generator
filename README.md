@@ -25,7 +25,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Password Generator.git](https://github.com/your-username/Password Generator.git)
+    git clone [git@github.com:itspjoriginals/Password-Generator.git](https://github.com/your-username/Password Generator.git)
     ```
 
 2.  **Navigate to the project directory:**
@@ -60,5 +60,3 @@ The password is generated using a character-pool strategy:
 * **Password Font:** `Font-Mono` to ensure characters like `0` vs `O` and `l` vs `1` are easily distinguishable.
 
 ---
-
-**Would you like me to add a "Deployment" section with instructions for platforms like Vercel or Netlify?**
