@@ -9,7 +9,7 @@
 * **Real-time Generation:** Passwords update instantly as you toggle settings or adjust the length.
 * **Customizable Complexity:** * Adjust length from 6 to 50 characters.
     * Toggle numerical digits.
-    * Toggle special characters ($!@\#$, etc.).
+    * Toggle special characters.
 * **One-Click Copy:** Integrated Clipboard API with visual "Success" feedback.
 * **Premium UI:** A modern, dark-mode interface featuring glassmorphism effects and high-contrast typography.
 * **Mobile Responsive:** Fully optimized for desktop, tablet, and smartphone screens.
